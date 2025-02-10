@@ -34,3 +34,10 @@ True
 True
 "Abril" in "Fizeram os exercícios?"
 False
+
+ac = "Fizeram a atividade conceitual?"
+print(ac.find("Atividade"))
+10
+
+print(ac.find("Abril"))
+-1
