@@ -26,3 +26,11 @@ print(b.strip(), "oi")
 print(a[6:11])
 print(a[6:11:2])
 print(a[::-1])
+
+resultado = "exercícios" in "Fizeram os exercícios?"
+print(resultado)
+True
+"Ícios" in "Fizeram os exercícios?"
+True
+"Abril" in "Fizeram os exercícios?"
+False
